@@ -1,0 +1,19 @@
+MySQL:
+  url: "localhost"
+  port: 3306
+  database: "Rush"
+  username: "root"
+  password: "123456"
+ScoreBoard:
+   Title: "&b南风过境 Rush"
+   Lines: 
+   - " "
+   - "&8- &7等级 &b▸ &f<Level>"
+   - "&8- &7进度 &b▸ &f编写中"
+   - " "
+   - "&8- &7准度 &b▸ &f编写中"
+   - " "
+   - "&8- &7撸床 &b▸ &f<BreakBed>"
+   - "&8- &7胜场 &b▸ &f<Wins>"
+   - " "
+   - "&b► play.starmc.vip"

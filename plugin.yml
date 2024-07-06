@@ -1,0 +1,5 @@
+name: RushLobby
+main: cn.Mchaptim.Rush.Main
+version: "1.0-Mchaptim.cn"
+commands:
+  rushlobby:
